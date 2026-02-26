@@ -13,8 +13,7 @@
     </p>
     <p>
         
-        <a href="https://x.com/vibetxt_">
-            🐦 twitter
+        <a href="https://x.com/vibetxt_" >  twitter
        
         </a>
     </p>
@@ -42,15 +41,15 @@ vibe.txt is a tool that makes downloading public content easier. it takes **zero
 the end user is responsible for what they download, how they use and distribute that content.
 vibe.txt never caches any content, it [works like a fancy proxy](/api/src/stream/).
 
-cobalt is in no way a piracy tool and cannot be used as such.
+vibe.txt is in no way a piracy tool and cannot be used as such.
 it can only download free & publicly accessible content.
 same content can be downloaded via dev tools of any modern web browser.
 
 ### contributing
-if you're considering contributing to cobalt, first of all, thank you! check the [contribution guidelines here](/CONTRIBUTING.md) before getting started, they'll help you do your best right away.
+if you're considering contributing to vibe.txt, first of all, thank you! check the [contribution guidelines here](/CONTRIBUTING.md) before getting started, they'll help you do your best right away.
 
 ### thank you
-cobalt is sponsored by [royalehosting.net](https://royalehosting.net/?partner=cobalt). a part of our infrastructure is hosted on their network. we really appreciate their kindness and support!
+vibe.txt is sponsored by [royalehosting.net](https://royalehosting.net/?partner=cobalt). a part of our infrastructure is hosted on their network. we really appreciate their kindness and support!
 
 ### licenses
 for relevant licensing information, see the [api](api/README.md) and [web](web/README.md) READMEs.

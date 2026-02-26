@@ -9,11 +9,9 @@
         <br/>
         <a href="https://vibetxt.xyz">
             vibetxt.xyz
-        </a>
-    </p>
-    <p>
+  
         
-        <a href="https://x.com/vibetxt_" >  twitter
+        https://x.com/vibetxt_" >  twitter
        
         </a>
     </p>

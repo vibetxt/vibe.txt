@@ -13,10 +13,7 @@
         
         https://x.com/vibetxt_" >  twitter
        
-        </a>
-    </p>
-    <br/>
-</div>
+       
 
 vibetxt is a media downloader that doesn't piss you off. it's friendly, efficient, and doesn't have ads, trackers, paywalls or other nonsense.
 

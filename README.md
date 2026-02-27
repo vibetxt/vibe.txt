@@ -10,7 +10,7 @@
         <a href="https://vibetxt.xyz">
             vibetxt.xyz
   
-        ca: 0x373781fF379A2410474998BA886C9B91AD60ab1b
+        
         https://x.com/vibetxt_" >  twitter
        
        
